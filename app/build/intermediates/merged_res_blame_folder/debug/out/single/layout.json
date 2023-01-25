@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\BiometricAuthentication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\BiometricAuthentication\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\BiometricAuthentication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\BiometricAuthentication\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    }
+]
